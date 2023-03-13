@@ -1,0 +1,11 @@
+Model Information:
+* title:	Radio Shack TRS-80 Model 1
+* source:	https://sketchfab.com/3d-models/radio-shack-trs-80-model-1-9e3277cd95274f248d12b91dff3ea1cb
+* author:	denisstephane (https://sketchfab.com/denisstephane)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Radio Shack TRS-80 Model 1" (https://sketchfab.com/3d-models/radio-shack-trs-80-model-1-9e3277cd95274f248d12b91dff3ea1cb) by denisstephane (https://sketchfab.com/denisstephane) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
